@@ -32,10 +32,6 @@ Returns:
 - Remix IDE
 - Ethereum Virtual Machine
 
-## Demo
-
-Screenshots and video demo included.
-
 ## Author
 
 GitHub: https://github.com/i-am-gk
